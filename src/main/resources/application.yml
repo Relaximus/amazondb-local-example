@@ -1,0 +1,16 @@
+spring:
+    data:
+        dynamodb:
+            entity2ddl:
+                auto: create-only
+amazon:
+    dynamodb:
+        endpoint: http://localhost:8000
+        region: eu-central-1
+---
+spring:
+    profiles: prod
+amazon:
+    dynamodb:
+        accesskey: AKIAJFGUG2EW2GGTZXRQ
+        secretkey: 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
