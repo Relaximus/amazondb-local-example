@@ -1,6 +1,7 @@
 # DynamoDB example
-In this example is being used [Spring Data DynamoDB](https://derjust.github.io/spring-data-dynamodb/) 
-and [DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.Maven.html) for showing case how all that could be configured and run.
+In this example [Spring Data DynamoDB](https://derjust.github.io/spring-data-dynamodb/) 
+and [DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.Maven.html) 
+are being used for showing case how all that could be configured and run.
 
 There are two options to run code:
 1. Locally on your computer
