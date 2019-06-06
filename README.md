@@ -1,3 +1,5 @@
+[Amazon DynamoDb local tutorial](https://www.relaximus.com/post/spring-amazon-dynamodb-local-guide/) repository.
+
 # DynamoDB example
 In this example [Spring Data DynamoDB](https://derjust.github.io/spring-data-dynamodb/) 
 and [DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.Maven.html) 
